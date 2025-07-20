@@ -198,7 +198,7 @@ const Navbar = () => {
           </li>
 
           {/* Custom Theme Switch */}
-          <li>
+{/*           <li>
             <div className="switch">
               <input
                 type="checkbox"
@@ -212,7 +212,7 @@ const Navbar = () => {
                 <span className="switch__decoration"></span>
               </label>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>
